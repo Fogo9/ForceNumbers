@@ -53,7 +53,7 @@
                     total *= n;
 
                 }
-                System.out.println("Sonuç : " + total);
+                System.out.println("Conclusion : " + total);
             }
         }
 
@@ -63,7 +63,7 @@
 
         Enter The Base Number : 5
         Enter The Exponent Number : 3
-        Sonuç : 125
+        Conclusion : 125
 
 ```
 
