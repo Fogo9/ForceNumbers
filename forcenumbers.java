@@ -21,6 +21,6 @@ public class forcenumbers{
             total *= n;
 
         }
-        System.out.println("Sonuç : " + total);
+        System.out.println("Conclusion : " + total);
     }
 }
