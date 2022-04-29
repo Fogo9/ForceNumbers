@@ -1,14 +1,14 @@
 # **FORCE NUMBERS**
 
-# Information
+## INFORMATION
 
 * **This program returns the product of exponential numbers.**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-# Contents
+## CONTENTS
 
 * The variables **n**, **k**, **i** and **total** are defined with int.
 
@@ -18,9 +18,7 @@
 
 * I continued the process by assigning the value 1 to the variable **i** in the for loop.
 
-<br />
-
-# Codes
+## CODES
 
 ```Java
 
@@ -69,13 +67,13 @@
 
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/ForceNumbers.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
